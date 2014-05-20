@@ -1,4 +1,6 @@
 <?php
+
+//para testar
 include_once 'valida.php';
 include_once'template.php';
 $tplC = file_get_contents("conteudo.tpl");
